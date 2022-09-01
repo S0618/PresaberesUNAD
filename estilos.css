@@ -1,0 +1,23 @@
+h1{
+    color: rgb(4, 0, 255);
+    text-align: center;
+}
+header{
+    background:#cacac8;
+}
+h2 {
+    background: #bdf0c0;
+}
+h3 {
+    color: #8d3939;
+}
+table,td {
+	border: 1px solid black;
+}
+section{
+    background: #8fb3;
+}
+
+footer{
+    background: #696c6e;
+}
